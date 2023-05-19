@@ -1,0 +1,33 @@
+<!-- Works Fine ONLY on a transparent images -->
+
+    <section class="hero">
+      <div class="hero-body">
+        <div class="container has-text-centered" style="max-width: 2000px;">
+          <p class="title" style="font-size: 22px;">
+            Help is here. Whenever and however you need it.
+          </p>
+          <!--
+          <p class="subtitle">
+            Subtitle
+          </p>
+          -->
+          <br>
+    
+          <div class="columns is-centered" style="gap: 10px;">
+            <div class="column is-3-desktop" style="border: 1px black solid; border-radius: 8px;">
+              <p style="text-align: left;">Front-End Web Developer</p>
+              <img src="/images/edit1.png" alt="">
+            </div>
+            <br> 
+            <div class="column is-3-desktop" style="border: 1px black solid; border-radius: 8px;">
+              <p style="text-align: left;">Front-End Web Developer</p>
+              <img src="/images/edit1.png" alt="">
+            </div>
+            <div class="column is-3-desktop" style="border: 1px black solid; border-radius: 8px;">
+              <p style="text-align: left;">Front-End Web Developer</p>
+              <img src="/images/edit1.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
